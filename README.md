@@ -1,6 +1,5 @@
 # Sohila-shamso
 هذه الاداة احدى محاولات الباحثة سهيله شمسو لمكافحة التزييف العميق
-<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -110,7 +109,9 @@
 
     <script>
         // Set API key placeholder
-        const apiKey = "";
+        const apiKey = "// Set API key placeholder (تعيين المفتاح الاحتياطي لـ API)
+const apiKey = ""; 
+";
         // تحديد النموذج المستخدم للتحقق من الحقائق وتحليل الصور
         const factCheckModel = 'gemini-2.5-flash-preview-09-2025';
         const imageAnalysisModel = 'gemini-2.5-flash-preview-09-2025';
